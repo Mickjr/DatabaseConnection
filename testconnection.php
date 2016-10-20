@@ -1,9 +1,9 @@
 <?php
 
- $servername = "streetmonstahs.com";
- $username = "mantonhortonjr";
- $password = "mantrell23";
- $dbname = "ninjamax_mw1";
+   $servername = "localhost";
+   $username = "root";
+   $password = "root";
+   $dbname = "bgonlinetraining";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
